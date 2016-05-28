@@ -1,0 +1,14 @@
+layout_spectrum: 0.9135338
+typography_spectrum: 0.06498389
+color:
+  saturation: 0.7749732
+  lightness: 0.5547798
+  brandStrength: 0.8158891
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#D0D0D0'
+    - '#9C9C9C'
+    - '#1F1F1F'
+  rhythmicContrast: 0.7524168
+name: BodyworkSandra
